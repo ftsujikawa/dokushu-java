@@ -1,1 +1,1 @@
-# dokushu-java
+# 独習Java
