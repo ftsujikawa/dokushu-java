@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ch05Ren532",
+            "request": "launch",
+            "mainClass": "chap05.Ch05Ren532",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ch05Ren531",
+            "request": "launch",
+            "mainClass": "chap05.Ch05Ren531",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeToInstant",
+            "request": "launch",
+            "mainClass": "chap05.TimeToInstant",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeFromCalendar",
+            "request": "launch",
+            "mainClass": "chap05.TimeFromCalendar",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalUse",
+            "request": "launch",
+            "mainClass": "chap05.CalUse",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimePlus2",
+            "request": "launch",
+            "mainClass": "chap05.TimePlus2",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimePlus",
+            "request": "launch",
+            "mainClass": "chap05.TimePlus",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeBetween",
+            "request": "launch",
+            "mainClass": "chap05.TimeBetween",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeJapanese",
+            "request": "launch",
+            "mainClass": "chap05.TimeJapanese",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeFormatLocale",
+            "request": "launch",
+            "mainClass": "chap05.TimeFormatLocale",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimePattern",
+            "request": "launch",
+            "mainClass": "chap05.TimePattern",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeFormat",
+            "request": "launch",
+            "mainClass": "chap05.TimeFormat",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeGet2",
+            "request": "launch",
+            "mainClass": "chap05.TimeGet2",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeGet",
+            "request": "launch",
+            "mainClass": "chap05.TimeGet",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeEquals",
+            "request": "launch",
+            "mainClass": "chap05.TimeEquals",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeParse",
+            "request": "launch",
+            "mainClass": "chap05.TimeParse",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeOf",
+            "request": "launch",
+            "mainClass": "chap05.TimeOf",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeNow",
+            "request": "launch",
+            "mainClass": "chap05.TimeNow",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ch05Ren522",
             "request": "launch",
             "mainClass": "chap05.Ch05Ren522",
