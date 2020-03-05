@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ch05Rik4",
+            "request": "launch",
+            "mainClass": "selflearn/chap05.Ch05Rik4",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ch05Rik3",
+            "request": "launch",
+            "mainClass": "selflearn/chap05.Ch05Rik3",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ch05Rik1",
+            "request": "launch",
+            "mainClass": "selflearn/chap05.Ch05Rik1",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HttpBasic",
+            "request": "launch",
+            "mainClass": "selflearn/chap05.HttpBasic",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FolderProcess",
+            "request": "launch",
+            "mainClass": "chap05.FolderProcess",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileProcess",
+            "request": "launch",
+            "mainClass": "chap05.FileProcess",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDeep",
+            "request": "launch",
+            "mainClass": "chap05.ArrayDeep",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayShallow",
+            "request": "launch",
+            "mainClass": "chap05.ArrayShallow",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArraysExample",
+            "request": "launch",
+            "mainClass": "chap05.ArraysExample",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FormatNumber",
+            "request": "launch",
+            "mainClass": "chap05.FormatNumber",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RandomExample",
+            "request": "launch",
+            "mainClass": "chap05.RandomExample",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BigNumber2",
+            "request": "launch",
+            "mainClass": "chap05.BigNumber2",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BigNumber",
+            "request": "launch",
+            "mainClass": "chap05.BigNumber",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MathEx",
+            "request": "launch",
+            "mainClass": "chap05.MathEx",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryReadWrite",
+            "request": "launch",
+            "mainClass": "chap05.BinaryReadWrite",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamRead",
+            "request": "launch",
+            "mainClass": "chap05.StreamRead",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamWrite",
+            "request": "launch",
+            "mainClass": "chap05.StreamWrite",
+            "projectName": "dokushu-java_adf572f1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ch05Ren532",
             "request": "launch",
             "mainClass": "chap05.Ch05Ren532",
